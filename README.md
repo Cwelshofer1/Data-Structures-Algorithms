@@ -40,3 +40,15 @@ Quadratic Growth-	Growth pattern where quantities increase proportionally to the
 Term-	A combination of coefficients and variables, or a number on its own.
                                                             
 Variable-	A letter or symbol that represents a numeric value that can change.
+
+Just Enough Math- Notes 
+----------------------------------------------------------------------------------------------------------------------------------
+- Polynomials have a lot of different parts such as coefficients, variables, exponents, reminds me of a working computer system or program.
+
+- input size and number of steps are the most commonly discussed relationship in coding. Number of steps makes sense because I think of number of steps = how long something takes to process. input size matters as well.
+
+- Expressions that are not polynomials have negative exponents, have fractional exponents, or have
+ variables in denominator or variables as an exponent.
+
+- Exponential growth can start to have large increases in numbers, which can lead to extra steps, while logarithmic growth has a steady increase in numbers that make things easier to manage.
+
