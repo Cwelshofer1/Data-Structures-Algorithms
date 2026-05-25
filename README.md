@@ -52,3 +52,10 @@ Just Enough Math- Notes
 
 - Exponential growth can start to have large increases in numbers, which can lead to extra steps, while logarithmic growth has a steady increase in numbers that make things easier to manage.
 
+Algorithmic Thinking & Big-O- Notes----------------------------------------------------------------------------------------------
+
+- Try to Apply what you have learned to real world situations.
+
+- Calculating steps using the Big O Method is very vague so try and keep an open mind to what those steps are.
+
+- Big O Notation is easier for me to look at in terms of speed and how fast common complexities work. While comparing the different complexities it makes things much easier to understand and also gets my mind thinking on what complexities would work best in different situations. Again Looking at things from a real world situation with speed in mind, is very helpful.
